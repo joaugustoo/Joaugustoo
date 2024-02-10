@@ -1,3 +1,6 @@
-<h2>Hi There! 👋</h2>
+# João 
 
-[ [Email](mailto:joaoaugusto311016@gmail.com) - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-oliveira-15b018238/) ]
+Software Developer.
+
+LinkedIn: [@joaoaugusto](https://www.linkedin.com/in/jo%C3%A3o-augusto-oliveira-15b018238/)
+Reach out at [joaoaugusto311016@gmail.com](mailto:joaoaugusto311016@gmail.com) 
