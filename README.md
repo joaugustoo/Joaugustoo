@@ -1,1 +1,1 @@
-Hi, I'm João Augusto!
+Hi, I'm João!
