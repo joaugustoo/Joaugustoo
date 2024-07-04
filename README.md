@@ -1,3 +1,3 @@
-#### Hi, I'm João!
+Hi, I'm João!
 
 https://www.joaugusto.com/
