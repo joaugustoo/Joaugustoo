@@ -1,1 +1,1 @@
-[www.joaugusto.com](https://www.joaugusto.com/)
+[joaugusto.com](https://www.joaugusto.com/)
